@@ -8,6 +8,7 @@ to find the day of the week, by first calculating the 'anchor day' for the given
 then that of the given year, then finding the given day's offset from the first doomsday of
 the month, which is its offset from the year's anchor day.
 
-This program is written in Python 3.9. It is licensed under the
+This program is written in C. It is licensed under the
 [GNU GPL, version 3](https://www.gnu.org/licenses/gpl-3.0.en.html). It was
-written by Hayden Walker ([www.haywalk.ca](https://www.haywalk.ca/)) on 2021-12-15. 
+written by Hayden Walker ([www.haywalk.ca](https://www.haywalk.ca/)),
+originally on 2021-12-15 in Python 3, then re-written in C on 2022-01-11.
